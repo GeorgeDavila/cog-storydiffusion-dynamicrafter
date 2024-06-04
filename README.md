@@ -1,8 +1,14 @@
 # cog-storydiffusion-dynamicrafter
 use dynamicrafter to generate video from storydiffusion output images 
 
+Example output using [storydiffusion](https://replicate.com/hvision-nku/storydiffusion) outputs on [tooncrafter](https://replicate.com/fofr/tooncrafter):
+
+![ex1](examples/ex1.mp4)
+
+
 ### StoryDiffusion References
 
+- https://replicate.com/hvision-nku/storydiffusion
 - https://github.com/camenduru/StoryDiffusion-replicate 
 - https://github.com/GeorgeDavila/cog-storydiffusion-comics
 
