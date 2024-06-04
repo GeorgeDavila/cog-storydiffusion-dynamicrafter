@@ -15,3 +15,4 @@ use dynamicrafter to generate video from storydiffusion output images
 - https://github.com/camenduru/DynamiCrafter-interpolation-320x512-replicate 
 - https://replicate.com/camenduru/dynami-crafter-interpolation-320x512 
 
+[cog-comfyui-tooncrafter](https://github.com/fofr/cog-comfyui-tooncrafter) uses [dynamicrafter interpolation](https://replicate.com/camenduru/dynami-crafter-interpolation-320x512) for video generation 
